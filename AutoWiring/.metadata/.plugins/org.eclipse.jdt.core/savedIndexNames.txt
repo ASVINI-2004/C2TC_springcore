@@ -1,0 +1,23 @@
+INDEX VERSION 1.134+C:\Users\asvin\Downloads\C2TC_SpringCore_Projects-master\C2TC_SpringCore_Projects-master\springbasic\.metadata\.plugins\org.eclipse.jdt.core
+1909832475.index
+3934408826.index
+1865797976.index
+3184672754.index
+1205901993.index
+930507307.index
+2363385384.index
+3229432868.index
+2897996422.index
+852335057.index
+1450462255.index
+2415670087.index
+3231894620.index
+1900323603.index
+4101722108.index
+3044273538.index
+319867180.index
+1778875502.index
+1468007358.index
+831986098.index
+376185642.index
+3571990071.index
